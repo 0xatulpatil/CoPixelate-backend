@@ -8,3 +8,7 @@ Install all packages using
 ```
 npm install
 ```
+
+## Contributions
+
+Checkout the contributions page: [How to Contribute](CONTRIBUTE.md);
